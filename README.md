@@ -1,4 +1,4 @@
-#  iris_data-analytics
+#  iris_data-analysts
 
 This content investigates the Iris dataset through different stages. 
 
